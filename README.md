@@ -2,11 +2,12 @@
 
 <p><strong>Greenery</strong> is a vibrant and engaging platform designed for plant lovers and gardening enthusiasts. Whether you're seeking advice, sharing your gardening achievements, or exploring the wonderful world of plants, Greenery has everything you need to grow and flourish in your green journey.</p>
 
+<p>Built with <strong>Next.js</strong> for a seamless user experience and <strong>PostgreSQL</strong> for efficient data management, Greenery combines a social network, educational resources, and advanced tools to guide you in every step of your gardening adventure.</p>
+
 <h2><strong>Video Overview</strong></h2>
 Here's a demo video of the project.
 <a href="https://youtu.be/emfbmrfqPGE?si=qd9O2u6fy3CwSvDX">Demo Video<a>
 
-<p>Built with <strong>Next.js</strong> for a seamless user experience and <strong>PostgreSQL</strong> for efficient data management, Greenery combines a social network, educational resources, and advanced tools to guide you in every step of your gardening adventure.</p>
 
 <h2>🌼 <strong>Features</strong></h2>
 
