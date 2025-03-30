@@ -88,3 +88,8 @@
     <li><strong>Database:</strong> <a href="https://www.postgresql.org/">PostgreSQL</a></li>
     <li><strong>APIs Used:</strong> Pl@ntNet API, Google Gemini API, Trefle API</li>
 </ul>
+
+
+##Video Overview
+Here's a demo video of the project.
+<a href="https://youtu.be/emfbmrfqPGE?si=qd9O2u6fy3CwSvDX">Demo Video<a>
