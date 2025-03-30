@@ -90,6 +90,6 @@
 </ul>
 
 
-##Video Overview
+<h2><strong>Video Overview</strong></h2>
 Here's a demo video of the project.
 <a href="https://youtu.be/emfbmrfqPGE?si=qd9O2u6fy3CwSvDX">Demo Video<a>
